@@ -1,0 +1,191 @@
+!SESSION 2017-11-26 09:43:29.058 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:44:34.093
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.093
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.093
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.093
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.093
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:44:34.172
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.172
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.172
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:34.172
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:34.172
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:44:35.353
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.353
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.353
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.353
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.353
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:44:35.355
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.356
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.356
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:44:35.356
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:44:35.356
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:45:07.086
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.086
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.089
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.092
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.092
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.092
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.092
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.092
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.092
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.092
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 09:45:07.094
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.094
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.094
+!MESSAGE Software being installed: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.094
+!MESSAGE Missing requirement: GCC support for CDT Build Core 1.0.0.201710130142 (org.eclipse.cdt.build.gcc.core 1.0.0.201710130142) requires 'bundle org.eclipse.core.resources 3.10.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.096
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.096
+!MESSAGE From: C/C++ Development Tools 9.3.3.201710130142 (org.eclipse.cdt.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.097
+!MESSAGE To: org.eclipse.cdt.gnu.build.feature.group [9.3.3.201710130142]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2017-11-26 09:45:07.097
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.097
+!MESSAGE From: C/C++ GNU Toolchain Build Support 9.3.3.201710130142 (org.eclipse.cdt.gnu.build.feature.group 9.3.3.201710130142)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2017-11-26 09:45:07.097
+!MESSAGE To: org.eclipse.cdt.build.gcc.core [1.0.0.201710130142]
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2017-11-26 10:11:20.346
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2017-11-26 10:11:20.346
+!MESSAGE session context was:(profile=PlatformProfile, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2017-11-26 10:11:20.346
+!MESSAGE Unable to read repository at https://dl.bintray.com/fabioz/pydev/6.1.0/plugins/org.python.pydev.refactoring_6.1.0.201711051306.jar.
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:983)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:940)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:735)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:678)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:263)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.UrlConnectionRetrieveFileTransfer.getDecompressedStream(UrlConnectionRetrieveFileTransfer.java:542)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.UrlConnectionRetrieveFileTransfer.openStreams(UrlConnectionRetrieveFileTransfer.java:312)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:889)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:576)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:355)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:101)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:156)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:668)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:590)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:723)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:287)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:267)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:208)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:138)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:707)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 10:12:37.979
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-11-26 10:12:37.979
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2017-11-26 10:12:37.979
+!MESSAGE "Eclipse Java EE Developer Tools" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2017-11-26 10:12:37.981
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2017-11-26 10:12:37.981
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2017-11-26 10:12:37.982
+!MESSAGE "Eclipse Java EE Developer Tools" will be ignored because it is already installed.
